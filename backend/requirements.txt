@@ -1,0 +1,15 @@
+langgraph
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+pypdf
+fastapi
+uvicorn
+python-dotenv
+pinecone
+langchain-pinecone
+langchain-tavily
+langchain-openai
+requests
+plotly
