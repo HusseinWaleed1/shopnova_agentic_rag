@@ -10,7 +10,7 @@ def load_frontend_config():
     """
     load_dotenv()
     return {
-        "FASTAPI_BASE_URL": os.getenv("FASTAPI_BASE_URL", "https://shopnovaagenticrag-production.up.railway.app/")
+        "FASTAPI_BASE_URL": os.getenv("FASTAPI_BASE_URL", "https://shopnovaagenticrag-production.up.railway.app")
     }
 
 # Load config once when the module is imported
